@@ -1,0 +1,3 @@
+this is results.csv
+contain label predicted from simple model only trained to predicted sentiment
+while pred_aspect is the predictions from 2nd model trained to predict both aspects and sentiments

@@ -1,0 +1,7 @@
+torch==1.10.0+cu111
+transformers==4.15
+sklearn==1.0.1
+tqdm==4.62.3
+pandas==1.1.5
+numpy==1.19.5
+nltk==3.2.5
